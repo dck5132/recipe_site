@@ -1,0 +1,23 @@
+{
+  "name": "cyril_recipe_site",
+  "version": "1.0.0",
+  "description": "Recipe, Angular2, Angular4, Node, Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dck5132/recipe_site.git"
+  },
+  "author": "Cyril Kalikin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dck5132/recipe_site/issues"
+  },
+  "homepage": "https://github.com/dck5132/recipe_site#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-generator": "^4.15.0"
+  }
+}
