@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dck5132/recipe_site#readme",
   "dependencies": {
+    "ejs": "^2.5.6",
     "express": "^4.15.3",
     "express-generator": "^4.15.0"
   }
