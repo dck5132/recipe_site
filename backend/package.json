@@ -1,0 +1,11 @@
+{
+  "name": "recipe_backend",
+  "version": "1.0.0",
+  "description": "Cyrils Angular recipe site backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cyril Kalikin",
+  "license": "ISC"
+}
