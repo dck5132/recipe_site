@@ -9,7 +9,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "current": "ng serve --host 0.0.0.0 -port 8080 --disable-host-check"
+    "current": "ng serve --host 0.0.0.0 -port 8080 --disable-host-check",
+    "test": "ng serve --host 0.0.0.0 -port 8080 --public-host ${recipe_site-cyrilshadow.c9users.io/}"
   },
   "private": true,
   "dependencies": {
